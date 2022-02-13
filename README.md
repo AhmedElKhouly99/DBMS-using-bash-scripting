@@ -1,1 +1,1 @@
-# DBMS-using-bash-scripting
+# DBMS-using-BashScript
